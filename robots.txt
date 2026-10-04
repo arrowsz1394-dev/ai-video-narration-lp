@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arrowsz1394-dev.github.io/ai-video-narration-lp/sitemap.xml
